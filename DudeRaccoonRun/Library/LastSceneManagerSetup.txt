@@ -1,0 +1,19 @@
+sceneSetups:
+- path: Assets/Scenes/LevelBonus.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Level3.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/DieScreen.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Endscene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Level2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Level1.unity
+  isLoaded: 1
+  isActive: 1
